@@ -1,0 +1,75 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Clinic.Domain/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "10.0.0-preview.4.25258.110"
+        },
+        "runtime": {
+          "Clinic.Domain.dll": {}
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-preview.4.25258.110": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.25910"
+          }
+        }
+      },
+      "Microsoft.Extensions.Options/10.0.0-preview.4.25258.110": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "10.0.0-preview.4.25258.110",
+          "Microsoft.Extensions.Primitives": "10.0.0-preview.4.25258.110"
+        },
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Options.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.25910"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/10.0.0-preview.4.25258.110": {
+        "runtime": {
+          "lib/net8.0/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "10.0.0.0",
+            "fileVersion": "10.0.25.25910"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Clinic.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/10.0.0-preview.4.25258.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SYIIGR549cPnt87N7JtQlCDYr3fPSnFOB8i7BrIU9NDW4MSukSdG74ddl5BpCIwOEk1hhxtlcclIN65StppbMQ==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/10.0.0-preview.4.25258.110",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.10.0.0-preview.4.25258.110.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/10.0.0-preview.4.25258.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-uXMTwQljNFUnkIRVMo1F+ilaNQTl0uofwSuzWDBwj6dnE4zAZGiWVLqgrpL57vsZ4+MO7tWM9HwXP7LyjXqU6Q==",
+      "path": "microsoft.extensions.options/10.0.0-preview.4.25258.110",
+      "hashPath": "microsoft.extensions.options.10.0.0-preview.4.25258.110.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/10.0.0-preview.4.25258.110": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-kG3cJqv8N7BtFSFVupnBFSymfLk2eSnDgpttAEw7bxndWliKDhAem8xrh0EvAvk2BVH5ivNIdWzv8w/tkNVwcQ==",
+      "path": "microsoft.extensions.primitives/10.0.0-preview.4.25258.110",
+      "hashPath": "microsoft.extensions.primitives.10.0.0-preview.4.25258.110.nupkg.sha512"
+    }
+  }
+}

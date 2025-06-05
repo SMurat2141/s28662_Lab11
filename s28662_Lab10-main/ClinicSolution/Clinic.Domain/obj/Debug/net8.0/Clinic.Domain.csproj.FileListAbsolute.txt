@@ -1,0 +1,12 @@
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.deps.json
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.dll
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\bin\Debug\net8.0\Clinic.Domain.pdb
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.csproj.AssemblyReference.cache
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.AssemblyInfoInputs.cache
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.AssemblyInfo.cs
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.csproj.CoreCompileInputs.cache
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.dll
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\refint\Clinic.Domain.dll
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\Clinic.Domain.pdb
+C:\Users\monli\OneDrive\Masaüstü\s28662_Lab10-main\ClinicSolution\Clinic.Domain\obj\Debug\net8.0\ref\Clinic.Domain.dll
